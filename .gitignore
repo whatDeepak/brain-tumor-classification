@@ -1,0 +1,11 @@
+# Ignore unnecessary files and folders
+venv/
+dataset/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.zip
+*.mat
+*.log
+.ipynb_checkpoints/
