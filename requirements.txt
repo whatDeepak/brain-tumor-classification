@@ -3,3 +3,6 @@ Pillow
 scipy
 opencv-python
 h5py
+imutils
+tqdm
+split-folders
