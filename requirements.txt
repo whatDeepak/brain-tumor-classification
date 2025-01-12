@@ -6,3 +6,7 @@ h5py
 imutils
 tqdm
 split-folders
+tensorflow
+keras
+matplotlib
+keras_preprocessing
