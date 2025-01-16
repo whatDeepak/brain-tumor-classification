@@ -6,7 +6,8 @@ h5py
 imutils
 tqdm
 split-folders
-tensorflow
-keras
 matplotlib
-keras_preprocessing
+pandas
+seaborn
+scikit-learn
+ipywidgets
